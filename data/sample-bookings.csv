@@ -1,0 +1,4 @@
+id,userId,roomId,start,end,attendees,purpose,status
+1,s2026001,R101,2026-10-02T10:00,2026-10-02T11:00,2,Project meeting,ACTIVE
+2,s2026002,R102,2026-10-02T11:00,2026-10-02T12:30,4,Study group,ACTIVE
+3,s2026001,R201,2026-10-03T14:00,2026-10-03T15:00,3,Presentation practice,CANCELLED

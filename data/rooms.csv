@@ -1,0 +1,5 @@
+id,name,capacity,equipment
+R101,Engineering Study Room 1,4,projector;whiteboard
+R102,Engineering Study Room 2,8,whiteboard
+R201,Collaboration Room,12,projector;whiteboard;display
+R202,Quiet Study Room,2,
